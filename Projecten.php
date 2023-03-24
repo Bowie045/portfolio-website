@@ -39,7 +39,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://lichtwerkt.seolabtest.nl/" target="_blank" class="titleimg">Lichtwerkt Nederland</a></li>
-                <a href="https://lichtwerkt.seolabtest.nl/" target="_blank"><img src="Lichtwerktthumb.png" alt="Ik"></a>
+                <a href="https://lichtwerkt.seolabtest.nl/" target="_blank"><img src="Lichtwerktthumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>
@@ -53,7 +53,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank" class="titleimg">Feadship Heritage Fleet</a></li>
-                <a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank"><img src="Feadthumb.png" alt="Ik"></a>
+                <a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank"><img src="Feadthumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>
@@ -67,7 +67,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://webike.seolabtest.nl/" target="_blank" class="titleimg">We Bike Amsterdam</a></li>
-                <a href="https://webike.seolabtest.nl/" target="_blank"><img src="Webikethumb.png" alt="Ik"></a>
+                <a href="https://webike.seolabtest.nl/" target="_blank"><img src="Webikethumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>

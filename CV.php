@@ -90,7 +90,7 @@
                     <div class="cv-item">
                         <h4>Stage SEOLab</h4>
                         <p>02 januari 2023 - heden</p>
-                        <p>Wordpress website's van klanten verbeteren naar wens klant.</p>
+                        <p>Bij SEOLab ben ik vooral bezig met website's maken/veranderen naar hoe de klant dat wilt.</p>
                     </div>
                 </div>
             </div>

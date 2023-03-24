@@ -1,1 +1,1 @@
-Welkom bij mijn portfolio website 
+Welkom bij de portfolio website van Bowie Korff 

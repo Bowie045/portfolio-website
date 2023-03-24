@@ -15,3 +15,10 @@ $(document).ready(function() {
        $(this).addClass("active").siblings().removeClass("active");
    });
 });
+
+$(document).ready(function() {
+   var typed = new Typed('#typed-text', {
+     strings: ['Hallo, Mijn naam is Bowie Korff en ben 18 jaar oud. Ik loop stage bij SEOLab. Bij SEOLab ben ik vooral bezig met feedback verwerken op de website van de klanten en zelf website\'s maken voor de klanten. Ik gebruik hiervoor CSS, PHP, HTML, (klein beetje javascript) en Wordpress.'],
+     typeSpeed: 30
+   });
+ });

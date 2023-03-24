@@ -213,6 +213,13 @@
   font-family: Sarabun, sans-serif;
 }
 
+.title-overmij h1{
+  position: absolute;
+  left: 68%;
+  top: 25%;
+  font-size: 3em;
+}
+
 .Linker-blokje {
   width: 50%;
   padding-top: 3%;
@@ -225,18 +232,24 @@
   padding-right: 5%;
 }
 
-.Linker-blokje img {
-  box-shadow: 0px 0px 200px #880808;
+.img-overmij {
+  margin-top: 7%;
+  position: absolute;
+  left: 10%;
 }
 
-/* Brightness-zoom Container */
+.typed-cursor {
+  opacity: 0!important;
+}
+
+/* Brightness */
 .img-hover-zoom--brightness img {
   transition: transform 3s, filter 1s ease-in-out;
   transform-origin: center center;
-  filter: brightness(50%);
+  filter: brightness(75%);
 }
 
-/* The Transformation */
+/* Hover groote */
 .img-hover-zoom--brightness:hover img {
   filter: brightness(100%);
   transform: scale(1.1);
@@ -417,7 +430,7 @@ ul {
 }
 
 /**/
-/*Footer Homepage*/
+/*Footer*/
 .main-footer-home {
   background-color: #000000;
   color: #555;
@@ -427,9 +440,8 @@ ul {
   bottom: 0px;
   width: 100%;
   height: 50px;
-  /* set a fixed height or use min-height for dynamic content */
 }
-
+/*JS navbar*/
 * {
   margin: 0;
   padding: 0;
@@ -588,6 +600,7 @@ nav ul li a span.rotate {
   color: #202020;
   z-index: -1;
   text-align: center;
+  margin-top: 4%;
 }
 
 h1,
