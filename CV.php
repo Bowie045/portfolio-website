@@ -29,7 +29,7 @@
                     <span class="fas fa-caret-down second"></span>
                 </a>
                 <ul class="serv-show">
-                    <li><a href="#">Examenplan</a></li>
+                    <li><a href="examenplan.php">Examenplan</a></li>
                     <li><a href="#">Uren formulier</a></li>
                     <li><a href="#">Stagebeoordeling</a></li>
                 </ul>
