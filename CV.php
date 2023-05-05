@@ -30,8 +30,8 @@
                 </a>
                 <ul class="serv-show">
                     <li><a href="examenplan.php">Examenplan</a></li>
-                    <li><a href="#">Uren formulier</a></li>
-                    <li><a href="#">Stagebeoordeling</a></li>
+                    <li><a href="stage-uren.php">Uren formulier</a></li>
+                    <li><a href="Stage-beordeling.php">Stagebeoordeling</a></li>
                 </ul>
             </li>
         </ul>
@@ -39,7 +39,7 @@
     <div class="cv-container">
         <div class="cv-header">
             <a href="Over-mij.php"><img style="float: left; margin: 0px 0px 15px 15px;" href="Over-mij"
-                    src="CV-plaatje.jpg" width="125" height="125"></a>
+                    src="images/cv-plaatje.jpg" width="125" height="125"></a>
         </div>
         <div class="cv-header">
             <h2>Bowie Korff</h2>

@@ -425,10 +425,26 @@ ul {
 }
 
 .knop-cv:hover,
+.knop-stagebeordeling:hover,
 .knop-cv:focus {
   background-color: #fff;
   color: #000 !important;
 }
+/* Stagebeordeling */
+.knop-stagebeordeling {
+  flex: 1;
+  background-color: #880808;
+  color: rgb(255, 255, 255) !important;
+  border: 1px solid;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all .75s ease-out;
+  font-size: 12px;
+  width: 25%;
+  display: inline-block;
+}
+/**/
 
 /**/
 /*Footer*/

@@ -18,7 +18,7 @@
          Menu
       </div>
       <ul>
-         <li class="active"><a href="index.php">Home</a></li>
+         <li><a href="index.php">Home</a></li>
          <li><a href="over-mij.php">Over mij</a></li>
          <li><a href="cv.php">Curriculum Vitae</a></li>
          <li><a href="projecten.php">Projecten</a></li>
@@ -36,13 +36,11 @@
    </nav>
    <div class="Homepage">
       <div class="content">
-         <h2>Welkom op de portfolio website van Bowie Korff </h2>
-         <p>Hier kun je mijn werk en vaardigheden bekijken en meer te weten komen over mij.</p>
-         <img src="images/regio_collegethumb.png" alt="Ik" style="margin-top:10%;">
-
+         <h2 style="font-size: 3em;;" >Stage uren</h2>
+         <img src="images/stageuren.png" alt="Stageuren" style="margin-top:5%;">
       </div>
    </div>
    <?php include 'footer.php';?>
 </body>
 
-</html>
+</html

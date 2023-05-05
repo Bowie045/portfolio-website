@@ -28,8 +28,8 @@
             </a>
             <ul class="serv-show">
                <li><a href="examenplan.php">Examenplan</a></li>
-               <li><a href="#">Uren formulier</a></li>
-               <li><a href="#">Stagebeoordeling</a></li>
+               <li><a href="stage-uren.php">Uren formulier</a></li>
+               <li><a href="Stage-beordeling.php">Stagebeoordeling</a></li>
             </ul>
          </li>
       </ul>
@@ -37,7 +37,7 @@
    <div class="Homepage">
       <div class="content">
          <h2 style="font-size: 3em;;" >Examenplan</h2>
-         <img src="Examenplan.png" alt="examenplan" style="margin-top:5%;">
+         <img src="images/examenplan.png" alt="examenplan" style="margin-top:5%;">
 
       </div>
    </div>

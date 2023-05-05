@@ -29,8 +29,8 @@
                 </a>
                 <ul class="serv-show">
                     <li><a href="examenplan.php">Examenplan</a></li>
-                    <li><a href="#">Uren formulier</a></li>
-                    <li><a href="#">Stagebeoordeling</a></li>
+                    <li><a href="stage-uren.php">Uren formulier</a></li>
+                    <li><a href="Stage-beordeling.php">Stagebeoordeling</a></li>
                 </ul>
             </li>
         </ul>
@@ -39,7 +39,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://lichtwerkt.seolabtest.nl/" target="_blank" class="titleimg">Lichtwerkt Nederland</a></li>
-                <a href="https://lichtwerkt.seolabtest.nl/" target="_blank"><img src="Lichtwerktthumb.png" alt="Ik" loading="lazy"></a>
+                <a href="https://lichtwerkt.seolabtest.nl/" target="_blank"><img src="images/lichtwerktthumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>
@@ -53,7 +53,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank" class="titleimg">Feadship Heritage Fleet</a></li>
-                <a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank"><img src="Feadthumb.png" alt="Ik" loading="lazy"></a>
+                <a href="https://feadshipheritagefleet.seolabtest.nl/" target="_blank"><img src="images/feadthumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>
@@ -67,7 +67,7 @@
         <div class="left-col">
             <ul>
                 <li style="margin-bottom:5%;"><a href="https://webike.seolabtest.nl/" target="_blank" class="titleimg">We Bike Amsterdam</a></li>
-                <a href="https://webike.seolabtest.nl/" target="_blank"><img src="Webikethumb.png" alt="Ik" loading="lazy"></a>
+                <a href="https://webike.seolabtest.nl/" target="_blank"><img src="images/webikethumb.png" alt="Ik" loading="lazy"></a>
                 <h3 style="margin-bottom:4%;">Skills</h3>
                 <div class="block">
                     <li><i class="fa-brands fa-css3-alt fa-2xl" style="color:#2AA4F4;"></i>CSS</li>
